@@ -55,11 +55,11 @@ h2 + p {
     letter-spacing: 1px;
 }
 strong { font-weight: 900; }
+
 .intro {
     background-image: url(dark-ribs.jpg);
     background-size: cover;
     background-color: #404040;
-    background-blend-mode:screen;
     background-position: center;
     padding: 0 .5em 2em;
     display: flex;
